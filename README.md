@@ -44,4 +44,4 @@ The data follows a **star-schema model** with `Restaurants` as the central fact 
 ## Screenshot / Demos
 Example: ![Dashboard preview](https://github.com/iharshxdeep/Zomato-dashboard/blob/main/Screenshot%202025-10-13%20160140.png)
 
-⭐ Don’t forget to give this project a star if you found it useful!
+⭐ Don’t forget to give this project a star if you found it useful! 
